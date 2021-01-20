@@ -1,5 +1,5 @@
 ## セットアップ
-git remote add origin https://
+git remote add origin https://github.com/LEMRES9/React_Tutorial.git
 git pull origin master
 
 ## プロジェクトのセットアップ
