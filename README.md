@@ -1,6 +1,8 @@
 ## セットアップ
+```bash
 git remote add origin https://github.com/LEMRES9/React_Tutorial.git
-git pull origin master
+$ git pull origin master
+```
 
 ## プロジェクトのセットアップ
 
@@ -19,6 +21,8 @@ $ npm start
 ```
 
 ### comit
+```bash
 $ git add .
 $ git commit -m "add xxxx"
 $ git git push origin xxxxx
+```
