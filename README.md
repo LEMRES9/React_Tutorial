@@ -1,6 +1,6 @@
 ## セットアップ
 ```bash
-git remote add origin https://github.com/LEMRES9/React_Tutorial.git
+$ git remote add origin https://github.com/LEMRES9/React_Tutorial.git
 $ git pull origin master
 ```
 
